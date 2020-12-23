@@ -4,7 +4,7 @@ I majored in computer engineering at Daejin University.
 
 I'm interested in the front-end.
 
-The technology that I'm interested in lately is HTML CSS(SCSS) JavaScript TypeScript.
+The technology that I'm interested in lately is HTML CSS(SCSS) JavaScript TypeScript React.
 
 Contact Me : po4tion0429@gmail.com
 
