@@ -1,24 +1,16 @@
-### Hi there 👋
+:wrench:Techs & Tools
+============
+![OS](https://img.shields.io/badge/_-WINDOW_10-grey?style=for-the-badge&logo=windows&labelColor=0078D6&logoColor=fff)
+![EDITOR](https://img.shields.io/badge/_-VS_Code-grey?style=for-the-badge&logo=visual-studio-code&labelColor=007ACC&logoColor=fff)
+![HTML5](https://img.shields.io/badge/_-HTML5-grey?style=for-the-badge&logo=html5&labelColor=E34F26&logoColor=fff)
+![CSS3](https://img.shields.io/badge/_-CSS3-grey?style=for-the-badge&logo=css3&labelColor=1572B6&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/_-JavaScript-grey?style=for-the-badge&logo=javascript&labelColor=F7DF1E&logoColor=000)
+![REACT](https://img.shields.io/badge/_-React-grey?style=for-the-badge&logo=react&labelColor=61DAFB&logoColor=000)
 
-I majored in computer engineering at Daejin University.
+GitHub Stats
+============
+# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=po4tion&hide=stars,prs,issues,contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm interested in the front-end.
+# [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=po4tion)](https://github.com/anuraghazra/github-readme-stats)
 
-The technology that I'm interested in lately is HTML CSS(SCSS) JavaScript TypeScript React.
-
-Contact Me : po4tion0429@gmail.com
-
-<!--
-**po4tion/po4tion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=po4tion)](https://github.com/anuraghazra/github-readme-stats)
