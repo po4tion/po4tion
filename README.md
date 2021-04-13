@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-grey?style=for-the-badge&logo=javascript&labelColor=F7DF1E&logoColor=000)
 ![REACT](https://img.shields.io/badge/_-React-grey?style=for-the-badge&logo=react&labelColor=61DAFB&logoColor=000)
 
-GitHub Stats
+:chart_with_upwards_trend:GitHub Stats
 ============
 # [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=po4tion&hide=stars,prs,issues,contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
