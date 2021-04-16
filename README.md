@@ -9,8 +9,8 @@
 
 :chart_with_upwards_trend:GitHub Stats
 ============
-# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=po4tion&hide=stars,prs,issues,contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+# [![po4tion's GitHub stats](https://github-readme-stats.vercel.app/api?username=po4tion&hide=stars,prs,issues,contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-# [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=po4tion)](https://github.com/anuraghazra/github-readme-stats)
+# [![po4tion's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=po4tion)](https://github.com/anuraghazra/github-readme-stats)
 
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=po4tion)](https://github.com/anuraghazra/github-readme-stats)
