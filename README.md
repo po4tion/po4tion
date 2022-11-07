@@ -1,14 +1,14 @@
-:wrench:Techs & Tools
-============
-![OS](https://img.shields.io/badge/_-WINDOW_10-grey?style=for-the-badge&logo=windows&labelColor=0078D6&logoColor=fff)
-![EDITOR](https://img.shields.io/badge/_-VS_Code-grey?style=for-the-badge&logo=visual-studio-code&labelColor=007ACC&logoColor=fff)
-![HTML5](https://img.shields.io/badge/_-HTML5-grey?style=for-the-badge&logo=html5&labelColor=E34F26&logoColor=fff)
-![CSS3](https://img.shields.io/badge/_-CSS3-grey?style=for-the-badge&logo=css3&labelColor=1572B6&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/_-JavaScript-grey?style=for-the-badge&logo=javascript&labelColor=F7DF1E&logoColor=000)
-![REACT](https://img.shields.io/badge/_-React-grey?style=for-the-badge&logo=react&labelColor=61DAFB&logoColor=000)
-
 :chart_with_upwards_trend:GitHub Stats
 ============
-# [![po4tion's GitHub stats](https://github-readme-stats.vercel.app/api?username=po4tion&hide=stars,prs,issues,contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+# ![po4tion's GitHub stats](https://github-readme-stats.vercel.app/api?username=po4tion&show_icons=true&theme=onedark)
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=po4tion)](https://github.com/anuraghazra/github-readme-stats)
+
+:wrench:Skills
+============
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?&style=for-the-badge&logo=React%20Query&logoColor=white)
