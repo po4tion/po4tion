@@ -28,7 +28,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :man_playing_water_polo: In my free time, I enjoy Coffee:coffee: and walk a dog:dog:.
 
-- :seedling: Recently my main interests are "Nextjs" and "Typescript".
+- :seedling: Recently my main interests are "Working efficiently" and "Think soft".
 
 ---
 
