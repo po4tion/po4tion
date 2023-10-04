@@ -30,6 +30,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Recently my main interests are "Working efficiently" and "Think soft".
 
+- :coffee: If you want to have a coffee chat with me. Join [Coffee Chat](https://whattime.co.kr/po4tion/hour)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
