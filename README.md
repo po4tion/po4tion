@@ -24,11 +24,11 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
-- :chocolate_bar: Exploring Open Source Libraries.
+- :chocolate_bar: Exploring Open Source Libraries. I am making [eslint-plugin-component](https://github.com/po4tion/eslint-plugin-component) now.
 
 - :man_playing_water_polo: In my free time, I enjoy Coffee:coffee: and walk a dog:dog:.
 
-- :seedling: Recently my main interests are "Working efficiently" and "Think soft".
+- :seedling: Recently my main interests are "Developer experience" and "Think soft".
 
 - :coffee: If you want to have a coffee chat with me. Join [Coffee Chat](https://whattime.co.kr/po4tion/hour)
 
